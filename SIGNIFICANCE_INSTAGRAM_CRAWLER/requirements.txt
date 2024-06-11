@@ -1,0 +1,4 @@
+pandas
+instaloader
+cryptography
+redmail

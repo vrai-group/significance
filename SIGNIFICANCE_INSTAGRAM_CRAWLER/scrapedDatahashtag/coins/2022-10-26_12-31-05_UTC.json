@@ -1,0 +1,126 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.9.5"
+    },
+    "node": {
+        "__typename": "GraphImage",
+        "accessibility_caption": null,
+        "caption_is_edited": true,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 713,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 608,
+                "config_width": 640,
+                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312656977_778474569884280_1056340013804328849_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=gg3lOVwwZhQAX947n0U&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AT8MZ5Erh0xW5Ym83XIZJEKMHmStvNzZjpFLQ6cyS8886g&oe=635F104A&_nc_sid=4f375e"
+            },
+            {
+                "config_height": 713,
+                "config_width": 750,
+                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312656977_778474569884280_1056340013804328849_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=gg3lOVwwZhQAX947n0U&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AT-r0tOuqVvnnarXCX1wWKJT6fQqV57eBLE0WQ0Gix-xLg&oe=635F104A&_nc_sid=4f375e"
+            },
+            {
+                "config_height": 1027,
+                "config_width": 1080,
+                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312656977_778474569884280_1056340013804328849_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=gg3lOVwwZhQAX947n0U&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AT-r0tOuqVvnnarXCX1wWKJT6fQqV57eBLE0WQ0Gix-xLg&oe=635F104A&_nc_sid=4f375e"
+            }
+        ],
+        "display_url": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312656977_778474569884280_1056340013804328849_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=gg3lOVwwZhQAX947n0U&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AT-r0tOuqVvnnarXCX1wWKJT6fQqV57eBLE0WQ0Gix-xLg&oe=635F104A&_nc_sid=4f375e",
+        "edge_liked_by": {
+            "count": 14
+        },
+        "edge_media_preview_like": {
+            "count": 27,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\ud83c\udf0f Kolekcjoner W\u0142adys\u0142aw Semerau-Siemianowski przez ponad czterdzie\u015bci lat mieszka\u0142 w Imperium Osma\u0144skim. Na pocz\u0105tku by\u0142 lekarzem sztabowym tureckiej armii, a po wojnie z Rosj\u0105 pracowa\u0142 dla kolei (r\u00f3wnie\u017c jako lekarz). W tym czasie rozpoczyna si\u0119 jego kolekcjonerska pasja \u2014 na pocz\u0105tku amatorsko, p\u00f3\u017aniej rozbudowuje swoj\u0105 kolekcj\u0119 systematycznie w oparciu o naukowe ustalenia, pieczo\u0142owicie kataloguj\u0105c i opracowuj\u0105c obiekty. Cz\u0119\u015b\u0107 z nich kupowa\u0142, a cz\u0119\u015b\u0107 dostawa\u0142 w prezentach od wdzi\u0119cznych pacjent\u00f3w. \n\nTak w\u0142a\u015bnie by\u0142o z oktodrachm\u0105 trackiego plemienia Derron\u00f3w, kt\u00f3r\u0105 Semrau-Siemianowskiemu podarowa\u0142 w 1896 roku jeden z jego pacjent\u00f3w. Moneta mia\u0142a zosta\u0107 odnaleziona w pobli\u017cu jeziora Dojran i wzbudzi\u0142a tak wielkie zainteresowanie badaczy, \u017ce muzea sk\u0142ada\u0142y doktorowi oferty jej zakupu. On jednak stanowczo odm\u00f3wi\u0142 i oktodrachma trafi\u0142a do zbior\u00f3w MNW, przekazana 1 marca 1926 roku. \n\n\ud83d\udccd Mo\u017cecie zobaczy\u0107 j\u0105 na wystawie \u201eRozwa\u017cni i romantyczni. 100 lat Gabinetu Monet i Medali Muzeum Narodowego w Warszawie\".\n\n___\n\nOktodrachma, 520-480 p.n.e. \n\n#numizmatyka #money #MNWystawa #coins"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0,
+            "edges": [],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2957550077866029423",
+        "is_ad": false,
+        "is_video": false,
+        "location": null,
+        "media_preview": "ACoo6IkAZPAFUZNQVfujI9T/AIdfzxVS+n3MVzgL29/U/wBKpb+Mnn1pDNFr926cD6D+uaVb9lPzfMPfH9On5Gs5XAOSGwR2I/rSxtngjmgDoopVlXcv4juKkrGsJdsmw9+PyrZpiOZusrOxBx/9cCoV+ZwCfx/zirGopsm3EfKwH+c1TYAjj8PakMtPCM4BBPpzxRnZ82c/TtVZZHBypA9QaUSMcg459OlICWOUqwf05rqAcjI71zttAZ2wPud2/oPeuhHHFNCIZI1kGGGRWc+lRnlSVoopgQHTJBwCCPcVZh0xFO5zuP6UUUAaSqFGBwKdRRQB/9k=",
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Muzeum Narodowe w Warszawie",
+            "has_blocked_viewer": false,
+            "id": "1714535447",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-19/49797605_378376056271665_4898460142967717888_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=qRsfdt8LEnYAX95CGgM&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AT-Bu0cfpVea0bJBQKX_uZ9N9kiJeze7AaxEYtMk1nLlmg&oe=635E1648&_nc_sid=4f375e",
+            "requested_by_viewer": false,
+            "username": "nationalmuseuminwarsaw"
+        },
+        "shortcode": "CkLVCBEojFv",
+        "taken_at_timestamp": 1666787465,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312656977_778474569884280_1056340013804328849_n.jpg?stp=c17.0.685.685a_dst-jpg_e15_s150x150&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=gg3lOVwwZhQAX947n0U&edm=ABZsPhsBAAAA&ccb=7-5&oh=00_AT-ge3_v-NBMdkFginYt0DCx1FbHNybMHcjgGB6F3kBY-A&oe=635F104A&_nc_sid=4efc9f"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312656977_778474569884280_1056340013804328849_n.jpg?stp=c17.0.685.685a_dst-jpg_e15_s240x240&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=gg3lOVwwZhQAX947n0U&edm=ABZsPhsBAAAA&ccb=7-5&oh=00_AT9aRyK5tfCxDrqO3uAVkbYQM73uGckzyyX5cjjr9p_IXg&oe=635F104A&_nc_sid=4efc9f"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312656977_778474569884280_1056340013804328849_n.jpg?stp=c17.0.685.685a_dst-jpg_e15_s320x320&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=gg3lOVwwZhQAX947n0U&edm=ABZsPhsBAAAA&ccb=7-5&oh=00_AT_9rOTvWwfUxQTYGf3AxyydZHEu4RCzWp4ZNbM34NeWaA&oe=635F104A&_nc_sid=4efc9f"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312656977_778474569884280_1056340013804328849_n.jpg?stp=c17.0.685.685a_dst-jpg_e15_s480x480&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=gg3lOVwwZhQAX947n0U&edm=ABZsPhsBAAAA&ccb=7-5&oh=00_AT_R9_TWM_jpOIBhnUdLO6NO_XqlYd1E31UEVBMmeBwTRg&oe=635F104A&_nc_sid=4efc9f"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312656977_778474569884280_1056340013804328849_n.jpg?stp=c17.0.685.685a_dst-jpg_e15_s640x640&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=gg3lOVwwZhQAX947n0U&edm=ABZsPhsBAAAA&ccb=7-5&oh=00_AT9WBOhS_m3vS85-twrxAI0jn3juPpK2p1NNdVYKks0_UA&oe=635F104A&_nc_sid=4efc9f"
+            }
+        ],
+        "thumbnail_src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312656977_778474569884280_1056340013804328849_n.jpg?stp=c17.0.685.685a_dst-jpg_e15_s640x640&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=gg3lOVwwZhQAX947n0U&edm=ABZsPhsBAAAA&ccb=7-5&oh=00_AT9WBOhS_m3vS85-twrxAI0jn3juPpK2p1NNdVYKks0_UA&oe=635F104A&_nc_sid=4efc9f",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNDYyMDA4ZDI2YTE2NDEzN2EwYWRlNGFkNzY4OGJlMzYyOTU3NTUwMDc3ODY2MDI5NDIzIn0sInNpZ25hdHVyZSI6IiJ9",
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

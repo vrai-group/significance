@@ -1,0 +1,208 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.9.5"
+    },
+    "node": {
+        "__typename": "GraphSidecar",
+        "accessibility_caption": null,
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_resources": [
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312605961_1105593936752319_181383049320675691_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=pcUWun4h80EAX_XOGoP&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AT92ATEeyiHwvSvilFMggeMCFhLBLvM9O8Dn3b5zYomHrg&oe=635E74DE&_nc_sid=4f375e"
+            },
+            {
+                "config_height": 750,
+                "config_width": 750,
+                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312605961_1105593936752319_181383049320675691_n.webp?stp=dst-jpg_e35_s750x750_sh0.08&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=pcUWun4h80EAX_XOGoP&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AT_kz2i4qBFkp-M1PbrVERlJ0QQeGRM0k3xhcVXuJ2plJg&oe=635E74DE&_nc_sid=4f375e"
+            },
+            {
+                "config_height": 1080,
+                "config_width": 1080,
+                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312605961_1105593936752319_181383049320675691_n.webp?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=pcUWun4h80EAX_XOGoP&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AT_t8zJFg-UBcpuLttzSp593wu_uVZNRej08t8WbhYbwug&oe=635E74DE&_nc_sid=4f375e"
+            }
+        ],
+        "display_url": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312605961_1105593936752319_181383049320675691_n.webp?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=pcUWun4h80EAX_XOGoP&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AT_t8zJFg-UBcpuLttzSp593wu_uVZNRej08t8WbhYbwug&oe=635E74DE&_nc_sid=4f375e",
+        "edge_liked_by": {
+            "count": 0
+        },
+        "edge_media_preview_like": {
+            "count": 0,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\ud83c\uddff\ud83c\udde6South Africa 5 Shillings 1948\n\nWeight: 28.28 grams\nDiameter: 38.61 mm\nSilver composition: 0.800 silver\n\nObverse\nBust of George VI facing left\nScript:\u00a0Latin\nLettering:\nGEORGIVS SEXTVS REX\nHP\n\nReverse\nSpringbok in the center, date above, value below.\nScript:\u00a0Latin\nLettering:\nSOUTH AFRICA\u00b71949\u00b7SUID-AFRIKA\nCLS\n5 SHILLINGS\n\n#coin #coins #silvercoin #southafrica #britishcolony #kinggeorgevi #shilling #coincollecting #coincollection #numismatics #numismatist"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0,
+            "edges": [],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_sidecar_to_children": {
+            "edges": [
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": null,
+                        "dimensions": {
+                            "height": 1080,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 640,
+                                "config_width": 640,
+                                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312605961_1105593936752319_181383049320675691_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=pcUWun4h80EAX_XOGoP&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AT92ATEeyiHwvSvilFMggeMCFhLBLvM9O8Dn3b5zYomHrg&oe=635E74DE&_nc_sid=4f375e"
+                            },
+                            {
+                                "config_height": 750,
+                                "config_width": 750,
+                                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312605961_1105593936752319_181383049320675691_n.webp?stp=dst-jpg_e35_s750x750_sh0.08&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=pcUWun4h80EAX_XOGoP&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AT_kz2i4qBFkp-M1PbrVERlJ0QQeGRM0k3xhcVXuJ2plJg&oe=635E74DE&_nc_sid=4f375e"
+                            },
+                            {
+                                "config_height": 1080,
+                                "config_width": 1080,
+                                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312605961_1105593936752319_181383049320675691_n.webp?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=pcUWun4h80EAX_XOGoP&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AT_t8zJFg-UBcpuLttzSp593wu_uVZNRej08t8WbhYbwug&oe=635E74DE&_nc_sid=4f375e"
+                            }
+                        ],
+                        "display_url": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312605961_1105593936752319_181383049320675691_n.webp?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=pcUWun4h80EAX_XOGoP&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AT_t8zJFg-UBcpuLttzSp593wu_uVZNRej08t8WbhYbwug&oe=635E74DE&_nc_sid=4f375e",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2957552316988653505",
+                        "is_video": false,
+                        "media_preview": "ACoq1enNQGYk4Ucevr9B/U/lRK/y+x/X2qIyCuClSTXNL5L/ADNpStoibe57/wAv8KVZD0br78fqOM/UCoPMFSEA/iK6XCL0aIuyx1pMVXVvKYejEA/j90/gePxq3iuCpH2bstjVO5n3PGAaijkx061NcKW+v9RnH5jI+uKoo3Oc4/x9D/n8a74O8U0ZS0ZeEobrgn9f0qVe3cVVXnmrCyD6mrELMvy/59RU5JqAnewUeu4/QdPzNWcCuSq1dJ9jSJCyhvp/P/P8+lVZLfJzz9R1/Fe/1HXuKvGm1hCo4PTbsW4pmZ5eD94Z+hH6YqZI2P3Qf95htA+g6n+VTMTg1LF0FdEqrWyIUbhGgj46k8knv/n07VLTW7fUU6uRu+r3Zqux/9k=",
+                        "shortcode": "CkLVimavf_B",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6Ijg4ODM2OWQxMWNhODRjZTJiYzA0YjIxNGRhYWQ1MGY2Mjk1NzU1MjMxNjk4ODY1MzUwNSJ9LCJzaWduYXR1cmUiOiIifQ=="
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": null,
+                        "dimensions": {
+                            "height": 1080,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 640,
+                                "config_width": 640,
+                                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312832449_1046099772752439_4993033017447662126_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=i_EyMOpNAp0AX8PPrY_&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AT-D9wNTT2DLBmIvyZLU-_psISvgce0mdYUA9oy93YdWDQ&oe=635F0B1A&_nc_sid=4f375e"
+                            },
+                            {
+                                "config_height": 750,
+                                "config_width": 750,
+                                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312832449_1046099772752439_4993033017447662126_n.webp?stp=dst-jpg_e35_s750x750_sh0.08&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=i_EyMOpNAp0AX8PPrY_&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AT81QwfmWozcmx7FXCQKnhgpNFmPd7R4hFgnyCr0M80irQ&oe=635F0B1A&_nc_sid=4f375e"
+                            },
+                            {
+                                "config_height": 1080,
+                                "config_width": 1080,
+                                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312832449_1046099772752439_4993033017447662126_n.webp?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=i_EyMOpNAp0AX8PPrY_&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AT-YieKkUVA7oFkdGzvmKDFTP9qGgzHDfZGxNVHVEiDGwg&oe=635F0B1A&_nc_sid=4f375e"
+                            }
+                        ],
+                        "display_url": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312832449_1046099772752439_4993033017447662126_n.webp?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=i_EyMOpNAp0AX8PPrY_&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AT-YieKkUVA7oFkdGzvmKDFTP9qGgzHDfZGxNVHVEiDGwg&oe=635F0B1A&_nc_sid=4f375e",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2957552317114553519",
+                        "is_video": false,
+                        "media_preview": "ACoq1aga5AOEG7HU9v8AE/h+dLcMdu0cbup9B3/PpUEY7D/9VebSoqS557dEbSlbREm9/b8h/UmnrMR97/D+pH8qQYHBH8//AK1KyKRlencGup0oNWsRdk/XkdKKqxuY2x/C36en+H5elW686pB03y9N0ap3KVweR67f5t/9aog2BzUs4xhu33T7Z5B/A8fjVc8cHjFelTacFbsZPdkynI+nrUy/zqkpweasCQcVoIfKOM1aqofnIX8T9B/j0q1muHENXSNIoYRkEHkHgj19qptCy9AXUdMffUen+0PTvV3v+FJWMKjp7arsaOPMZ2F9SPqrD+lSJGzdAfqwwPy6mr24+tNWuh13bRf0zNRBYwg6/Unqf8+nan4optcd3N3e5ptof//Z",
+                        "shortcode": "CkLVimiPxSv",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6Ijg4ODM2OWQxMWNhODRjZTJiYzA0YjIxNGRhYWQ1MGY2Mjk1NzU1MjMxNzExNDU1MzUxOSJ9LCJzaWduYXR1cmUiOiIifQ=="
+                    }
+                }
+            ]
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2957552320193224374",
+        "is_ad": false,
+        "is_video": false,
+        "location": null,
+        "media_preview": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "NumismaticCollector.my",
+            "has_blocked_viewer": false,
+            "id": "53123442848",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-19/298177476_419312496682589_5700183418668784793_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=105&_nc_ohc=q_V4kZbcHncAX96SH1q&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AT9j85vqqXbLEEFuAxfBphvO1sQz-pAmQqDkZC06wUKqIA&oe=635DBC1E&_nc_sid=4f375e",
+            "requested_by_viewer": false,
+            "username": "numismaticcollector.my"
+        },
+        "shortcode": "CkLVipZv962",
+        "taken_at_timestamp": 1666787732,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312605961_1105593936752319_181383049320675691_n.webp?stp=dst-jpg_e35_s150x150&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=pcUWun4h80EAX_XOGoP&edm=ABZsPhsBAAAA&ccb=7-5&oh=00_AT_vjcvWggi3DloQv0FMJEEzNe3DMvIAvM2JGJBQzj8vUg&oe=635E74DE&_nc_sid=4efc9f"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312605961_1105593936752319_181383049320675691_n.webp?stp=dst-jpg_e35_s240x240&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=pcUWun4h80EAX_XOGoP&edm=ABZsPhsBAAAA&ccb=7-5&oh=00_AT_yniSCrJSWV-xh4BBkZR-KPJtWrZ1H1CNgbaCRn_03BA&oe=635E74DE&_nc_sid=4efc9f"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312605961_1105593936752319_181383049320675691_n.webp?stp=dst-jpg_e35_s320x320&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=pcUWun4h80EAX_XOGoP&edm=ABZsPhsBAAAA&ccb=7-5&oh=00_AT8HBOozFxFkZ3GUBjhrpHq0OKmtfAZQV8YvgQ7ChbUX_Q&oe=635E74DE&_nc_sid=4efc9f"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312605961_1105593936752319_181383049320675691_n.webp?stp=dst-jpg_e35_s480x480&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=pcUWun4h80EAX_XOGoP&edm=ABZsPhsBAAAA&ccb=7-5&oh=00_AT-bVhidSFVxzeW2qoLf3UCFCVgcKtcxApkAMJYlNdyBbg&oe=635E74DE&_nc_sid=4efc9f"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312605961_1105593936752319_181383049320675691_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=pcUWun4h80EAX_XOGoP&edm=ABZsPhsBAAAA&ccb=7-5&oh=00_AT-AkrCNAYXpVikl0Zo6MoVBkz6jvkB8wXhDSlQym63cGg&oe=635E74DE&_nc_sid=4efc9f"
+            }
+        ],
+        "thumbnail_src": "https://scontent-fco2-1.cdninstagram.com/v/t51.2885-15/312605961_1105593936752319_181383049320675691_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=pcUWun4h80EAX_XOGoP&edm=ABZsPhsBAAAA&ccb=7-5&oh=00_AT-AkrCNAYXpVikl0Zo6MoVBkz6jvkB8wXhDSlQym63cGg&oe=635E74DE&_nc_sid=4efc9f",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6Ijg4ODM2OWQxMWNhODRjZTJiYzA0YjIxNGRhYWQ1MGY2Mjk1NzU1MjMyMDE5MzIyNDM3NCJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

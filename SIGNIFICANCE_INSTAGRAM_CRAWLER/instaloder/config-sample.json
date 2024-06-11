@@ -1,0 +1,19 @@
+{
+    "instagram_data_path": "",
+    "hashtag_data_path": "instagram/Hashtag.csv",
+    "user_data_path": "instagram/User.csv",
+    "data_folder": "scrapedData",
+    "config_folder": "",
+    "execution_time": 50,
+    "time_scale": "m",
+    "single_hashtag_n_post": 2000,
+    "time_shift_multiplier": 1,
+    "logging_file_path": "",
+    "waiting_time": 50,
+    "activate_notification": false,
+    "account": "mail@gmail.com",
+    "smtp_server" : "smtp.gmail.com",
+    "smtp_port": 587,
+    "receiver": [],
+    "encripted_pw": "gAAAAABiRWcpj02F0X285zJ2WCE51-sEyuM8P2xPWRHJiGXIIHqpCNa9odNt4XIMrDuBFHlISj5Zl1Iocx-YMtguFsu-NKTVXuHjxg19TK5kmlOJh1uhHwQ="
+  }
