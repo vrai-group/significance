@@ -1,0 +1,26 @@
+{
+    "classification": {
+        "model_parameter": {
+            "n_classes": 3,
+            "pretrained": true
+        },
+        "training_parameter": {
+            "learning_rate": 0.00001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "test_parameter": {
+            "activate": true,
+            "epoch_count": 1,
+            "batch_size": 32
+        },
+        "data": {
+            "train_img_path": "dataset/frescoes_location/train",
+            "test_img_path": "dataset/frescoes_location/validation"
+        },
+        "save": {
+            "save_path": "code/model/frescoes_location",
+            "best_only": true
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "data":{
+        "image_path": "/mnt/d/WorkingDirectory/UNIVPM/Progetti/Europei/Significance",
+        "dump_path": {
+            "read": "/mnt/d/WorkingDirectory/UNIVPM/Progetti/Europei/Significance/items.json",
+            "write": "/mnt/d/WorkingDirectory/UNIVPM/Progetti/Europei/Significance/item2.json"
+        }
+    },
+    "model":{
+        "classification":{
+            "activate": true,
+            "weight": "/mnt/d/WorkingDirectory/UNIVPM/Progetti/Europei/Significance/code/model/best.pt",
+            "gpu": true,
+            "configuration":{
+                "pretrained": true,
+                "init_weight": false
+            },
+            "resize":{
+                "activated": true,
+                "size": [224, 224]
+            },
+            "classes": 3
+        }
+    },
+    "logging": {
+        "path": "./data/log/"
+    }
+}

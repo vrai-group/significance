@@ -1,0 +1,63 @@
+{
+    "data":{
+        "database":{
+            "read": {
+                "host": "localhost",
+                "port": "27017",
+                "username": "username",
+                "password": "password",
+                "name": "dbname",
+                "collection": "collectionname"
+            },
+            "write": {
+                "host": "localhost",
+                "port": "27017",
+                "username": "username",
+                "password": "password",
+                "name": "dbname",
+                "collection": "collectionname"
+            }
+        },
+        "images":{
+            "base": ""
+        }
+    },
+    "model":{
+        "classification":{
+            "activate": true,
+            "weight": "path_to_weight",
+            "gpu": true,
+            "configuration":{
+                "pretrained": true,
+                "init_weight": false
+            },
+            "resize":{
+                "activated": true,
+                "size": [224, 224]
+            }
+        },
+        "detection":{
+            "activate": false,
+            "yolo_weight": "path_to_weight",
+            "yolo_model_name": "yolov5s",
+            "n_classes": 5,
+            "yolo_pretrained": true,
+            "gpu": true,
+            "resize": {
+                "activated": true,
+                "size": [460, 460]
+            },
+            "classes_file": "path_to_classes"
+        },
+        "dominance":{
+            "activate": false,
+            "n_colours": 2,
+            "n_threads": 0,
+            "element_per_thread": 100,
+            "color_space": "hsv"
+        }
+    },
+    "logging": {
+        "path": "./data/log/"
+    }
+}
