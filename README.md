@@ -1,19 +1,132 @@
 # SIGNIFICANCE
 
-
+⚠️ ***Work in Progress...*** ⚠️
 
 Table 1 and Table 2 reports the data cardinality (number of images), for each class, used for the training and test of the models. The results are for both the phases defined. 
 
 ## Dataset
 
 Table 1. Artworks Classes Classification Results
-class	# samples for class	# all sample
- 	total	train	test	total	train	test
-coins	718	574	144	3590	2870	720
-frescoes	718	574	144			
-icons	718	574	144			
-manuscripts	718	574	144			
-others	718	574	144			
+<div align="center" style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'>
+    <table style="border: none;width:344.2pt;border-collapse:collapse;">
+        <tbody>
+            <tr>
+                <td style="width: 56.2pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-bottom: none;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>class</span></p>
+                </td>
+                <td colspan="3" style="width: 144pt;border-top: 1pt solid windowtext;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid black;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'># samples for class</span></p>
+                </td>
+                <td colspan="3" style="width: 144pt;border-top: 1pt solid windowtext;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid black;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'># all sample</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 56.2pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>&nbsp;</span></p>
+                </td>
+                <td style="width: 50.8pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>total</span></p>
+                </td>
+                <td style="width: 51.05pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>train</span></p>
+                </td>
+                <td style="width: 42.15pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>test</span></p>
+                </td>
+                <td style="width: 51.75pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>total</span></p>
+                </td>
+                <td style="width: 51.75pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>train</span></p>
+                </td>
+                <td style="width: 40.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>test</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 56.2pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>coins</span></p>
+                </td>
+                <td style="width: 50.8pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>718</span></p>
+                </td>
+                <td style="width: 51.05pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>574</span></p>
+                </td>
+                <td style="width: 42.15pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>144</span></p>
+                </td>
+                <td rowspan="5" style="width: 51.75pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>3590</span></p>
+                </td>
+                <td rowspan="5" style="width: 51.75pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>2870</span></p>
+                </td>
+                <td rowspan="5" style="width: 40.5pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>720</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 56.2pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>frescoes</span></p>
+                </td>
+                <td style="width: 50.8pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>718</span></p>
+                </td>
+                <td style="width: 51.05pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>574</span></p>
+                </td>
+                <td style="width: 42.15pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>144</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 56.2pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>icons</span></p>
+                </td>
+                <td style="width: 50.8pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>718</span></p>
+                </td>
+                <td style="width: 51.05pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>574</span></p>
+                </td>
+                <td style="width: 42.15pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>144</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 56.2pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>manuscripts</span></p>
+                </td>
+                <td style="width: 50.8pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>718</span></p>
+                </td>
+                <td style="width: 51.05pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>574</span></p>
+                </td>
+                <td style="width: 42.15pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>144</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 56.2pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>others</span></p>
+                </td>
+                <td style="width: 50.8pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>718</span></p>
+                </td>
+                <td style="width: 51.05pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>574</span></p>
+                </td>
+                <td style="width: 42.15pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                    <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>144</span></p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 
 Table 2. Artworks Features
 artefact	# samples	field	class	# samples for class	# all sample
