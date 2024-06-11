@@ -1,0 +1,21 @@
+{
+"CHROME_PATH" : "C:\\Users\\andrea\\Desktop\\Significance_NEW\\Crawling\\ebay\\chromedriver.exe",
+
+"BASE_URL_EBAY" : "https://www.ebay.com/",
+"URL_DIRETTO_EBAY" : "https://www.ebay.it/sch/i.html?_from=R40&_nkw=affresco&_oac=1",
+
+"COOKIES_ACCEPT_ID_EBAY" :  "//*[@id='gdpr-banner-accept']",
+"COOKIES_DECLINE_ID_EBAY" :  "//*[@id='gdpr-banner-decline']",
+"BUTTON_ID_EBAY" : "gh-btn",
+"SEARCH_BAR_ID_EBAY" : "gh-ac",
+"TITLE_XPATH_EBAY" : "//*[@id='LeftSummaryPanel']/div[1]/div[1]/div/h1/span",
+"IMG_ID_EBAY" : "icImg",
+"DESCR_ID_EBAY" : "viTabs_0_is",
+"DELIVERY_EBAY" : "//*[@id='itemLocation']/div[2]/div/div[2]/span",
+
+"MONGODB_HOST" : "localhost",
+"MONGODB_PORT" : 27017,
+
+"OUT_FOLDER_PATH" : "DOWN"
+
+}
