@@ -199,19 +199,300 @@ Icons_location
 </table>				
 							
 Confusion Matrix Normalized					
- 	cyprus	other					
-cyprus	0.494048	0.005952					
-other	0.008929	0.491071					
-							
-Classification Metrics					
- 	precision 	recall	f1-score	accuracy	support		
-cyprus	0.98	0.99	0.99	 	168		
-other	0.99	0.98	0.99	 	168		
-OVERALL	0.99	0.99	0.99	0.99	336		
-							
-Time Metrics		OUR PC			HPC	
-training time for 50 epochs: 	7870.6950762271881 seconds		
-test time for 336 samples: 	69.01968908309937 seconds		
+
+<table style="border: none; width: 457.15pt; border-collapse: collapse;">
+<tbody>
+<tr>
+<td style="width: 39.5143%; border: 1pt solid windowtext; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">&nbsp;</span></p>
+</td>
+<td style="width: 30.2428%; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">cyprus</span></p>
+</td>
+<td style="width: 30.2428%; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">other</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 39.5143%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">cyprus</span></p>
+</td>
+<td style="width: 30.2428%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #63be7b; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">166</span></p>
+</td>
+<td style="width: 30.2428%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #fcfcff; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">2</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 39.5143%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">other</span></p>
+</td>
+<td style="width: 30.2428%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #fcfcff; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">3</span></p>
+</td>
+<td style="width: 30.2428%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #64bf7c; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table style="border: none; width: 457.15pt; border-collapse: collapse;">
+<tbody>
+<tr>
+<td style="width: 192.5pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="4">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><em><span style="font-family: 'Calibri',sans-serif; color: black;">Confusion Matrix Normalized</span></em></p>
+</td>
+<td style="width: 52.3pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 66.2pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 52.3pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.9pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 77.35pt; border: 1pt solid windowtext; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">&nbsp;</span></p>
+</td>
+<td style="width: 57.35pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">cyprus</span></p>
+</td>
+<td style="width: 57pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">other</span></p>
+</td>
+<td style="width: 52.3pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 66.2pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 52.3pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="border: none; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif;">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 77.35pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">cyprus</span></p>
+</td>
+<td style="width: 57.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #63be7b; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">0.494048</span></p>
+</td>
+<td style="width: 57pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #fcfcff; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">0.005952</span></p>
+</td>
+<td style="width: 52.3pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 66.2pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 52.3pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="border: none; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif;">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 77.35pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">other</span></p>
+</td>
+<td style="width: 57.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #fcfcff; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">0.008929</span></p>
+</td>
+<td style="width: 57pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: #64bf7c; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">0.491071</span></p>
+</td>
+<td style="width: 52.3pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 66.2pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 52.3pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="border: none; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif;">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 77.35pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">&nbsp;</td>
+<td style="width: 57.35pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">&nbsp;</td>
+<td style="width: 57pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">&nbsp;</td>
+<td style="width: 52.3pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 66.2pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 52.3pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="border: none; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif;">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 192.5pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="4">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><em><span style="font-family: 'Calibri',sans-serif; color: black;">Classification Metrics</span></em></p>
+</td>
+<td style="width: 52.3pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 66.2pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 52.3pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.9pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 77.35pt; border: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">&nbsp;</span></p>
+</td>
+<td style="width: 57.35pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">precision&nbsp;</span></p>
+</td>
+<td style="width: 57pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">recall</span></p>
+</td>
+<td style="width: 52.3pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">f1-score</span></p>
+</td>
+<td style="width: 66.2pt; border: solid windowtext 1.0pt; border-left: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" colspan="2">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">accuracy</span></p>
+</td>
+<td style="width: 52.3pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">support</span></p>
+</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="border: none; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif;">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 77.35pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">cyprus</span></p>
+</td>
+<td style="width: 57.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">0.98</span></p>
+</td>
+<td style="width: 57pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">0.99</span></p>
+</td>
+<td style="width: 52.3pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">0.99</span></p>
+</td>
+<td style="width: 66.2pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">&nbsp;</span></p>
+</td>
+<td style="width: 52.3pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">168</span></p>
+</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="border: none; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif;">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 77.35pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">other</span></p>
+</td>
+<td style="width: 57.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">0.99</span></p>
+</td>
+<td style="width: 57pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">0.98</span></p>
+</td>
+<td style="width: 52.3pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">0.99</span></p>
+</td>
+<td style="width: 66.2pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">&nbsp;</span></p>
+</td>
+<td style="width: 52.3pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">168</span></p>
+</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="border: none; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif;">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 77.35pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">OVERALL</span></p>
+</td>
+<td style="width: 57.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">0.99</span></p>
+</td>
+<td style="width: 57pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">0.99</span></p>
+</td>
+<td style="width: 52.3pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">0.99</span></p>
+</td>
+<td style="width: 66.2pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">0.99</span></p>
+</td>
+<td style="width: 52.3pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">336</span></p>
+</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="border: none; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif;">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 77.35pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;">&nbsp;</td>
+<td style="width: 57.35pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">&nbsp;</td>
+<td style="width: 57pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">&nbsp;</td>
+<td style="width: 52.3pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 66.2pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 52.3pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="border: none; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif;">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 134.7pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" colspan="2">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><em><span style="font-family: 'Calibri',sans-serif; color: black;">Time Metrics</span></em></p>
+</td>
+<td style="width: 57pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">&nbsp;</td>
+<td style="width: 52.3pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-size: 13px; font-family: 'Calibri',sans-serif;">OUR PC</span></p>
+</td>
+<td style="width: 66.2pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 52.3pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-size: 13px; font-family: 'Calibri',sans-serif;">HPC</span></p>
+</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="border: none; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif;">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 192.5pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="4">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">training time for 50 epochs:&nbsp;</span></p>
+</td>
+<td style="width: 170.8pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="6">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">7870.6950762271881 seconds</span></p>
+</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.9pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 192.5pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="4">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">test time for 336 samples:&nbsp;</span></p>
+</td>
+<td style="width: 170.8pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="6">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif; text-align: justify;"><span style="font-family: 'Calibri',sans-serif; color: black;">69.01968908309937 seconds</span></p>
+</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.9pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 77.35pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">&nbsp;</td>
+<td style="width: 57.35pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">&nbsp;</td>
+<td style="width: 57pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;">&nbsp;</td>
+<td style="width: 52.3pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 66.2pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 52.3pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="width: 46.95pt; padding: 0cm 3.5pt; height: 15pt; vertical-align: bottom;" colspan="2">&nbsp;</td>
+<td style="border: none; padding: 0cm 0cm 0cm 0cm;">
+<p style="margin: 0cm; font-size: 16px; font-family: 'Times New Roman',serif;">&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 							
 frescoes_location 						
 							
