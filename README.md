@@ -157,11 +157,46 @@ The following Tables reports the results of all models.
 
 Icons_location
 
-						
-Confusion Matrix						
- 	cyprus	other					
-cyprus	166	2					
-other	3	165					
+<table style="border: none;width:457.15pt;border-collapse:collapse;">
+    <tbody>
+        <tr>
+            <td style="width: 77.35pt;border: 1pt solid windowtext;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 57.35pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>cyprus</span></p>
+            </td>
+            <td style="width: 57pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>other</span></p>
+            </td>
+            <td style="width: 52.3pt;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;"><br></td>
+        </tr>
+        <tr>
+            <td style="width: 77.35pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>cyprus</span></p>
+            </td>
+            <td style="width: 57.35pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;background: rgb(99, 190, 123);padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>166</span></p>
+            </td>
+            <td style="width: 57pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;background: rgb(252, 252, 255);padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>2</span></p>
+            </td>
+            <td style="width: 52.3pt;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;"><br></td>
+        </tr>
+        <tr>
+            <td style="width: 77.35pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>other</span></p>
+            </td>
+            <td style="width: 57.35pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;background: rgb(252, 252, 255);padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>3</span></p>
+            </td>
+            <td style="width: 57pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;background: rgb(100, 191, 124);padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style='font-family:"Calibri",sans-serif;color:black;'>165</span></p>
+            </td>
+            <td style="width: 52.3pt;padding: 0cm 3.5pt;height: 15pt;vertical-align: bottom;"><br></td>
+        </tr>
+    </tbody>
+</table>				
 							
 Confusion Matrix Normalized					
  	cyprus	other					
