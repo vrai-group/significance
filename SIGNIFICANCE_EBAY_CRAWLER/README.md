@@ -7,6 +7,7 @@ First of all you have to set the “config_file.json” contains the configurabl
 - OUT_FOLDER_PATH which contains the folder path where the images and the metadata of the individual products will be saved.
 
 To run the crawler (after setting the configuration parameters), you need to run the command:
+
 `python main.py`
 
 The main python packages needed for work the code are:
@@ -14,7 +15,7 @@ The main python packages needed for work the code are:
 - selenium
 - requests
 
-At the moment, the code has been structured to recover, from the individual products for sale on eBay, in addition to its image, information including:
+The code has been structured to recover, from the individual products for sale on eBay, in addition to its image, information including:
 - item URL
 - image URL
 - price
