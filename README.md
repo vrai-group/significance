@@ -2,7 +2,14 @@
 
 ⚠️ ***Work in Progress...*** ⚠️
 
-This repository describes the framework for automatically process and classify works of art images with the aim of obtaining useful information about the depicted artwork. The framework consists of two stages. Firstly the artwork depicted in the image is classified among 5 classes: icons, frescoes, coins, manuscripts, and others. 
+This repository contains the instrument to scraping data by crawlers and add info by AI module. For each of theese component the code is available in the respective parts:
+- [**eBay_Crawler**](https://github.com/vrai-group/significance/tree/main/SIGNIFICANCE_EBAY_CRAWLER)
+- [**Instagram_Crawler**](https://github.com/vrai-group/significance/tree/main/SIGNIFICANCE_INSTAGRAM_CRAWLER)
+- [**AI Module**](https://github.com/vrai-group/significance/tree/main/SIGNIFICANCE_AI_MODULE)
+
+The AI Module is the core of the framework for automatically process and classify works of art images with the aim of obtaining useful information about the depicted artwork. The framework consists of two stages. Firstly the artwork depicted in the image is classified among 5 classes: icons, frescoes, coins, manuscripts, and others. 
+
+![framework](/docs/framework.png)
 
 After the image has been classified at the first stage, it goes to the stage classification models (specific to the type of artwork) to extract specific features (e.g., location, period, etc.).
 
