@@ -1,0 +1,26 @@
+{
+    "classification": {
+        "model_parameter": {
+            "n_classes": 2,
+            "pretrained": true
+        },
+        "training_parameter": {
+            "learning_rate": 0.00001,
+            "batch_size": 32,
+            "epochs": 50
+        },
+        "test_parameter": {
+            "activate": true,
+            "epoch_count": 1,
+            "batch_size": 32
+        },
+        "data": {
+            "train_img_path": "/home/vrai/significance/dataset/manuscripts_language/train",
+            "test_img_path": "/home/vrai/significance/dataset/manuscripts_language/validation"
+        },
+        "save": {
+            "save_path": "/home/vrai/significance/model/manuscripts_language",
+            "best_only": true
+        }
+    }
+}
